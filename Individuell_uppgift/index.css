@@ -1,0 +1,62 @@
+body {
+    background-color: white ;
+    font-family: "Lucida Grande", sans-serif ;
+    text-align: center ;
+}
+
+header {
+    color: rgb(94, 69, 49) ;
+    padding: 20px ;
+}
+
+.studio {
+    color: rgb(159, 180, 159) ;
+}
+
+nav {
+    background-color: wheat ;
+    padding: 15px ;
+    word-spacing: 15px ;
+}
+
+a:link {
+    color: rgb(94, 69, 49) ;
+    font-weight: bold ;
+}
+a:visited {
+    color: grey ;
+}
+a:hover {
+    color: black ;
+}
+
+img {
+    width: 700px ;
+    height: 450px ;
+    margin-top: 20px ;
+    border: solid black 2px ;
+}
+
+article {
+    padding-left: 150px ;
+    padding-right: 150px ;
+}
+
+table, th, td {
+    border: 1px solid black ;
+    border-collapse: collapse ;
+    padding: 10px ;
+  }
+
+table {
+    background-color: rgb(159, 180, 159) ;
+    margin-left: auto ; 
+    margin-right: auto ;
+    margin-bottom: 20px ;
+}
+
+footer {
+    background-color: wheat ;
+    text-align: left ;
+    padding: 5px ;
+}
